@@ -282,7 +282,7 @@
                                                                                     {{ method_field('delete') }}
 
                                                                                     <div class="modal-body">
-                                                                                        <h4>{{__('messages.areYouSureYouWantToDelete')}}
+                                                                                        <h4>هل متاكد من الحذف
                                                                                             ?
                                                                                         </h4>
                                                                                     </div>

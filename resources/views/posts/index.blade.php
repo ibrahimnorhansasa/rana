@@ -282,16 +282,16 @@
                                                                                     {{ method_field('delete') }}
 
                                                                                     <div class="modal-body">
-                                                                                        <h4>{{__('messages.areYouSureYouWantToDelete')}}
+                                                                                        <h4>هل متاكد من الحذف
                                                                                             ?
                                                                                         </h4>
                                                                                     </div>
                                                                                     <div class="modal-footer">
-                                                                                        <input type="submit" value="Yes"
+                                                                                        <input type="submit" value="نعم"
                                                                                             class="btn btn-primary">
                                                                                         <button type="button"
                                                                                             class="btn btn-info"
-                                                                                            data-dismiss="modal">{{__('messages.no')}}</button>
+                                                                                            data-dismiss="modal">لا</button>
 
                                                                                     </div>
                                                                                 </form>
