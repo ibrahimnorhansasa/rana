@@ -61,17 +61,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="blog-card">
-                    <img src="../rana.PNG" alt="Post Image">
-                    <div class="blog-card-body">
-                        <h5 class="blog-card-title">العنوان الثاني</h5>
-                        <p class="blog-card-date">30 مارس 2024</p>
-                        <p class="blog-card-text">هذا هو النص التمهيدي للمنشور الثاني. يمكنك قراءة المزيد عن الموضوع
-                            هنا.</p>
-                    </div>
-                </div>
-            </div>
+   
 
             @endforeach
         </div>
