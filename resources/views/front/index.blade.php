@@ -38,6 +38,10 @@
 
     <div class="container" style="border-bottom: 1px solid;padding: 30px;width: 65%;margin: auto;"></div>
 
+    <div class="d-flex justify-content-between align-items-center mb-4">
+            <h3 class="m-0" style="border-bottom: 1px solid;padding: 4px;">التوصيات</h3>
+            <span class="badge">25</span>
+        </div>
     <section class="py-5 text-center container" id="recommend">
         @foreach(($recommends)->chunk(3) as $recos)
 
