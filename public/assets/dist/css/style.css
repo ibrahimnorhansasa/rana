@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Arslan Wessam B';
+    src: url('../font/arslan-wessam-b.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Calibri', sans-serif;
+    background-color: #F9F0EB;
+}
+
+.rana{
+
+    font-family: 'Arslan Wessam B', sans-serif;
+
+    font-size: 35px;
+
+}
+
+
+
+.blog-card {
+    background-color: #FFFBF9;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.blog-card img {
+    width: 100%;
+    height: auto;
+}
+
+.blog-card-body {
+    padding: 1rem;
+}
+
+.blog-card-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.blog-card-date {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.blog-card-text {
+    color: #555;
+    line-height: 1.6;
+}
+
+.post-card {
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    background-color: #FFFBF9;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-card img {
+    width: 30%;
+    border-radius: 10px;
+    margin-left: 1rem;
+}
+
+
+
+.post-card .content {
+    width: 70%;
+}
+
+.post-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.post-date {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.post-text {
+    color: #555;
+}
+
+footer{
+    background-color: #FFFBF9;
+}
